@@ -1,4 +1,4 @@
-# swlibrary-vue
+# todo-vue
 
 ## Project setup
 ```
